@@ -1,14 +1,12 @@
-<h1>✨ About Me</h1>
+👋🏻Hello! My name is<strong> Basliel Sisay</strong> (he/him). <br><br>👨‍💻I am a dedicated Software Engineering student currently studying at CTBE (formerly AAiT) 🎓.
 
-Hello! My name is<strong> Basliel Sisay</strong> (he/him). <br><br>👨‍💻I am a dedicated Software Engineering student currently studying at CTBE (formerly AAiT) 🎓.
+My passion lies in Web Development 🌐: where creativity meets technology to build impactful digital solutions. At the moment, I am focused on mastering the fundamentals of HTML, CSS, and JavaScript ⚡. These are the building blocks of the modern web, and I am committed to writing clean, efficient, and scalable code.
 
-My passion lies in Web Development 🌐 : where creativity meets technology to build impactful digital solutions. At the moment, I am focused on mastering the fundamentals of HTML, CSS, and JavaScript ⚡. These are the building blocks of the modern web, and I am committed to writing clean, efficient, and scalable code.
-
-I am actively following the Odin Project roadmap 🛣️ to become a well rounded Full-Stack Developer. Through this journey, I am not only learning the technical aspects but also practicing problem-solving, critical thinking, and real-world project development 🔧.
+I am actively following the<strong> Odin Project</strong> roadmap 🛣️ to become a well rounded Full-Stack Developer. Through this journey, I am not only learning the technical aspects but also practicing problem-solving, critical thinking, and real-world project development 🔧.
 
 Currently, I am working on hands on projects 🛠️ that challenge me to apply my knowledge, improve my design sense, and gain practical experience in delivering responsive and user friendly web applications.
 
-My goal is to grow into a professional Full-Stack Engineer 💼 who can design, develop, and deploy modern web applications that make a difference. I am always eager to collaborate, learn from others, and contribute to meaningful projects.
+My goal is to grow into a professional <strong>Full-Stack Engineer 💼</strong> who can design, develop, and deploy modern web applications that make a difference. I am always eager to collaborate, learn from others, and contribute to meaningful projects.
 
 🚀 Driven, curious, and determined that’s how I would describe myself in this journey of becoming a future ready developer.
 
