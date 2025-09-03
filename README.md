@@ -1,8 +1,16 @@
-👨‍💻 I’m Basliel Sisay, a Software Engineering student at Addis Ababa University.
+✨ About Me
 
-📚 Currently advancing through The Odin Project, where I’m building multiple hands-on web development projects.<br>
-🚀 My focus is on mastering front-end and full-stack skills through structured, real-world coding challenges.<br>
+Hello! My name is Basliel Sisay (he/him) 👨‍💻. I am a dedicated Software Engineering student currently studying at CTBE (formerly AAiT) 🎓.
 
+My passion lies in Web Development 🌐 — where creativity meets technology to build impactful digital solutions. At the moment, I am focused on mastering the fundamentals of HTML, CSS, and JavaScript ⚡. These are the building blocks of the modern web, and I am committed to writing clean, efficient, and scalable code.
+
+I am actively following the Odin Project roadmap 🛣️ to become a well-rounded Full-Stack Developer. Through this journey, I am not only learning the technical aspects but also practicing problem-solving, critical thinking, and real-world project development 🔧.
+
+Currently, I am working on hands-on projects 🛠️ that challenge me to apply my knowledge, improve my design sense, and gain practical experience in delivering responsive and user-friendly web applications.
+
+My goal is to grow into a professional Full-Stack Engineer 💼 who can design, develop, and deploy modern web applications that make a difference. I am always eager to collaborate, learn from others, and contribute to meaningful projects.
+
+🚀 Driven, curious, and determined — that’s how I would describe myself in this journey of becoming a future-ready developer.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:basliel.ugr-3563-16@aau.edu.et) 
