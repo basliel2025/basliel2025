@@ -1,5 +1,5 @@
 👋🏻Hello! My name is<strong> Basliel Sisay</strong> (he/him). <br><br>.
-👨‍💻 Dedicated Software Engineering student at CTBE (formerly AAiT) with a strong passion for Web Development.
+👨‍💻 Dedicated Software Engineering student at CTBE (formerly AAiT) with a strong passion for <strong>Web Development</strong>.
 
 🌐 Currently mastering HTML, CSS, and JavaScript while following The Odin Project roadmap to become a well rounded <strong>Full Stack</strong> Developer.
 
