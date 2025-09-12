@@ -1,4 +1,4 @@
-👋🏻Hello! My name is<strong> Basliel Sisay</strong> (he/him). <br><br>.
+👋🏻<strong>Hello!</strong> My name is<strong> Basliel Sisay</strong> (he/him). <br><br>.
 👨‍💻 Dedicated Software Engineering student at CTBE (formerly AAiT) with a strong passion for <strong>Web Development</strong>.
 
 🌐 Currently mastering <strong>HTML, CSS,</strong> and <strong>JavaScript</strong> while following The Odin Project roadmap to become a well rounded <strong>Full Stack</strong> Developer.
